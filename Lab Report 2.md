@@ -21,7 +21,7 @@ String str="";
 ```
 To showcase the implementation, In the two images below, I added two strings too the URI in order to showcase it properly updating.
 ![Image](PART1SS.png)
-![Image](PARTSS2.png)
+![Image](PART1SS2.png)
 1. The methods that are called include handleRequest and path
 2. The relevant arguments for handleRequest would be the /add arg and for the path method it would be the port number for the server
 3. The string gets changed because I have it so the String will have multiple strings added onto it as the URI gets updated with more strings
