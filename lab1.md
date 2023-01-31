@@ -16,9 +16,10 @@ Week 1 Lab Tutorial!
 ## Step 3 Trying out some Commands
 1. Try some of the following commands: cd, ls, pwd, mkdir, and cp in a few different ways to see what result you get
 2. Be sure to note down what you get and compare to a lab partner!
-3. Some of my testing can be seen here:
+3. Some of my testing can be seen in the image at the end of this step.
 ![Image](Lab1Testing.png)
-4. Are your results the same? Or different? Note them down!
+4. Notice something? If you look closely at the commands I had tried, you can see that I hadn't used my username when attempting to copy/print out the files. Don't forget to double check otherwise you'll end up fairly confused!
+5. Are your results the same? Or different? Note them down!
 
 ## The End!
 If there are any issues, be sure to refer back to the handout or ask one of the TAs for help!
