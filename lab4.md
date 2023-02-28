@@ -33,7 +33,7 @@ I did <alt+g><43><enter>
 This takes you to the line number you inputted.
 
 ![Nano](Lab4Nano1.png)
-![Nano](Lab4Nano2.png)
+![Nano2](Lab4Nano2.png)
   
 ## Passing Tests
 After the changes, I did <up><up><enter> to run the TestListExamples.java file
