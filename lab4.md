@@ -61,4 +61,4 @@ There are many ways to fully optomize how fast you can sift through your termina
 Below are some sources that I individually looked up during lab to further improve my time!
 
 [Nano CheatSheet](https://www.nano-editor.org/dist/latest/cheatsheet.html)
-[Handy Linux Shortcuts!](https://linuxhandbook.com/linux-shortcuts/)
+and [Handy Linux Shortcuts!](https://linuxhandbook.com/linux-shortcuts/)
