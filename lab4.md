@@ -32,8 +32,8 @@ As for going to the line of code with the error in nano, since I remembered apro
 I did <alt+g><43><enter>
 This takes you to the line number you inputted.
 
-![Nano](Lab4Nano1)
-![Nano Editor View](LabNano2)
+![Nano](Lab4Nano1.png)
+![Nano Editor View](LabNano2.png)
   
 ## Passing Tests
 After the changes, I did <up><up><enter> to run the TestListExamples.java file
