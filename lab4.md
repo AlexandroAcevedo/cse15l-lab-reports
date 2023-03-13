@@ -29,7 +29,7 @@ In order to edit the ListExamples.java file, I had ran the file through nano wit
 `<ctrl+r><n><a><n><enter>`
 I figured since nano was really the only command that started with n, It'd be wise to search for it.
 As for going to the line of code with the error in nano, since I remembered aproximately where it was,
-I did <alt+g><43><enter>
+I did `<alt+g><43><enter>`
 This takes you to the line number you inputted.
 
 ![Nano](Lab4Nano1.png)
