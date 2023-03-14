@@ -9,9 +9,10 @@ In the screenshots below I showcase how my new grade report can detect and asser
 ## What I changed
 
 I learned that it was a lot easier to just copy the lib folder into the new student submission directory instead of manually adding the Junit files.
-Furthermore a peer taught me about the ' if [[ $? -eq 0 ]] ' as a better way to look for a success since before I had copied the compile result to a txt file and grepped for any failures.
+Furthermore a peer taught me about the ' if $? -eq 0 ' as a better way to look for a success since before I had copied the compile result to a txt file and grepped for any failures.
 Now, I can cut on run time by just determining if it was a success or failure!
 In addition, I used `*.java` instead of compiling the files individually so that way I'd have a faster run time.
+
 ## What I want to learn more about
 
 Since this is something similar to what TAs would do when setting up a course, I'd like to know how effecient the grading algorithim can get. Since mine mostly determines if its a pass, fail, or non-existent.
